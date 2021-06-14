@@ -17,7 +17,7 @@ int main()
     }
     for (int i=0; i<m; i++)
     {
-        cin>>*(A+i);
+        cin>>*(B+i);
     }
 
     for (int i=0,j=0,k=0; i<(n+m); i++)
